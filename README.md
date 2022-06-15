@@ -217,6 +217,12 @@ Artificial Intelligence is an integral part of various applications and SAS soft
 
 AI offers a slew of characteristics that look promising for the products of tomorrow. AI can automate frequent, high-volume tasks by learning and discovering through data. Secondly, it adds intelligence to products in the areas of automation, conversational platforms, smart machines, and bots. Thirdly, it is capable of self-learning through algorithms by finding structure and regularities. Next, AI performs a deep dive of the data sets to facilitate building complex products like fraud detection systems. Further, AI uses deep learning to ensure incredible accuracy by progressively analyzing the inputs. Lastly, Artificial Intelligence helps in monetizing data for businesses to stay ahead of the curve.
 
+
+<img src="https://user-images.githubusercontent.com/58718316/173840814-20679ad6-aa26-422c-94ab-bbca53080e10.png" height=200 width=200>
+
+
+
+
 # What Is Machine Learning (Ml)?
 
 Machine Learning is a subset of AI that mainly focuses on using data and algorithms to mimic human learning. It uses statistical methods to train algorithms to classify or predict and even provide insights into data mining projects. Terms like deep learning and machine learning and sometimes neural networks are generally interchangeably used in the industry. However, there are subtle differences between these technologies. A neural network is a subset of deep learning while deep learning is one of the arms of machine learning.
